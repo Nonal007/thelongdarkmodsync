@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\thelongdarkmodsync\bin\Debug\thelongdarkmodsync.dll
+C:\Users\Admin\source\repos\thelongdarkmodsync\bin\Debug\thelongdarkmodsync.pdb
+C:\Users\Admin\source\repos\thelongdarkmodsync\obj\Debug\thelongdarkmodsync.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\thelongdarkmodsync\obj\Debug\thelongdarkmodsync.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\thelongdarkmodsync\obj\Debug\thelongdarkmodsync.dll
+C:\Users\Admin\source\repos\thelongdarkmodsync\obj\Debug\thelongdarkmodsync.pdb
